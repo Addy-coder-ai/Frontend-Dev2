@@ -1,0 +1,31 @@
+body
+{
+    background-color: lightcoral;
+}
+
+#title
+{
+    font-size: 25px;
+    font-weight: 670;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+#footer
+{
+    position: fixed;
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    bottom: 0;
+    width: 100%;
+    font-weight: 650;
+    height: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
